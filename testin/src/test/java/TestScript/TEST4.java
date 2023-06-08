@@ -7,4 +7,4 @@ public class TEST4 {
 System.out.println("welcome to AI");
 	}
 
-}
+}	
